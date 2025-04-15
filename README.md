@@ -1,3 +1,7 @@
+### This project has been archived in favor of [Modulix](https://github.com/Noah765/modulix).
+
+---
+
 # Combined Manager
 Combined Manager provides a new structure for personal NixOS configurations.
 ###### Note: Requires patching `nix` to solve [this issue](https://github.com/NixOS/nix/issues/3966). See more in the [patching Nix section](#patching-nix).
